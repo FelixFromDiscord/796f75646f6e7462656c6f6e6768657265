@@ -1,0 +1,51 @@
+body {
+	font-family: sans-serif;
+	background: rgb(0,0,0);
+	background: -moz-linear-gradient(259deg, rgba(0,0,0,1) 10%, rgba(252,69,69,1) 50%, rgba(0,0,0,1) 90%);
+	background: -webkit-linear-gradient(259deg, rgba(0,0,0,1) 10%, rgba(252,69,69,1) 50%, rgba(0,0,0,1) 90%);
+	background: linear-gradient(259deg, rgba(0,0,0,1) 10%, rgba(252,69,69,1) 50%, rgba(0,0,0,1) 90%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+	margin: 0;
+}
+
+.header-c {
+	background-color: rgba(0,0,0,0.5);
+	height: 50px;
+	margin-top: -21px;
+}
+
+.header-text {
+	text-align: center;
+}
+
+.eye{
+	display: none;
+}
+
+.CODEcont {
+	position: absolute;
+	transform: translate(290%, 250%);
+}
+
+.CODESubmit {
+	color: white;
+	background-color: gray;
+	outline: none;
+	border: black 1px solid;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.part1 {
+	color: black;
+	cursor: default;
+}
+
+.CODE {
+	color: white;
+	background-color: gray;
+	outline: none;
+	border: black 1px solid;
+	border-radius: 5px;
+	text-align: center;
+}
